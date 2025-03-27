@@ -28,6 +28,7 @@ const AddUser = () => {
              
             if(!isMailPerferct){
                 alert("mail is not valid")
+                return;
             }
 
             dispatch(addUser(email,"online"))

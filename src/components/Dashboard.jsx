@@ -11,9 +11,9 @@ const Dashboard = () => {
 
     console.log("data is:",data)
 
-    const setState = (active)={
+    // const setState = (active)={
     
-    }
+    // }
   return (
   <>
 
